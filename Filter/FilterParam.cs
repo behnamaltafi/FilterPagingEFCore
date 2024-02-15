@@ -1,4 +1,5 @@
 ﻿using FilterPagingEfCore.Enums;
+using FilterPagingEfCore.Extenstion;
 
 namespace FilterPagingEfCore.Filter
 {
